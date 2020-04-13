@@ -1,0 +1,5 @@
+  "scripts": {
+    "setup": "npm install",
+    "postsetup": "node postsetup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
